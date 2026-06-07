@@ -42,4 +42,14 @@ EDA is a critical step in data analysis where data scientists investigate datase
   <li> High-value drivers : A few large transactions peak near 3,456.40, skewing the overall revenue and pulling the average order value above the typical mid-range purchase.</li>
 </ul>
 
-![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Numeric%20descriptive%20analysis.png?raw=true)
+
+**Categorical Descriptive Analysis**
+<ul>
+  <li> Dominant Coupon : The FREESHIP coupon is highly prevalent, appearing 622 times in the dataset.</li>
+  <li> Top Product : There are 7 distinct products, with Printer being the most frequently ordered item (181 times).</li>
+  <li> High Order Cancellations: The most frequent order status is Cancelled (250 times), which may indicate a systemic issue with order fulfillment or customer retention.</li>
+  <li> Primary Acquisition Channel: Instagram is the top referral source, generating 259 entries.</li>
+</ul>
+
+![Alt text]()
