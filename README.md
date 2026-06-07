@@ -14,3 +14,5 @@ EDA is a critical step in data analysis where data scientists investigate datase
 1. Data analysis
 2. Descriptive statistics
 3. Analyticsl thinking
+
+![Alt Text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
