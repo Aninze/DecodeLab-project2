@@ -71,5 +71,15 @@ EDA is a critical step in data analysis where data scientists investigate datase
 
 ![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/CouponCode%20count%20and%20Revenue%20performance%20summary.png?raw=true)
 
+**OrderStatus Count and Revenue performance**
+<ul>
+  <li>Highest Revenue & Volume: The Cancelled status represents both the highest volume of orders (250) and the largest share of revenue ($276,396.21).</li>
+  <li>Lowest Volume: The Delivered status holds the lowest volume of orders at 231.</li>
+</ul>
+
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Orderstatus%20count%20and%20revenue%20performance%20summary.png?raw=true)
+
+
+
 
 
