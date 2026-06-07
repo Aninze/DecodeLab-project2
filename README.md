@@ -79,7 +79,13 @@ EDA is a critical step in data analysis where data scientists investigate datase
 
 ![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Orderstatus%20count%20and%20revenue%20performance%20summary.png?raw=true)
 
+**Payment Method Count and Revenue performance**
+<ul>
+  <li> Volume Leader: Online is your most frequently used channel with 258 transactions, generating the second-highest overall revenue.</li>
+  <li>Value Leader: While Credit Card doesn't have the highest volume, it brings in the most overall revenue ($263,847.63) and has the highest average cart size per transaction.</li>
+  <li>Underperformer: Debit Card lags behind in both total usage metrics and average ticket size compared to all other options.</li>
+</ul>
 
-
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Payment%20method%20count%20and%20revenue%20performance%20summary.png?raw=true)
 
 
