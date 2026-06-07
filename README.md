@@ -32,6 +32,14 @@ EDA is a critical step in data analysis where data scientists investigate datase
   <li> The number of outliers in ItemsIncart column: 0</li>
   <li> The number of outliers in Totalprice column: 8</li>
 </ul>
+
 ![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
 
+**Numeric Descriptive Analysis**
+<ul>
+  <li> Small scale shopping : Customers purchase small quantities (1–5 items) per line item, with full cart sizes never exceeding 10 items.</li>
+  <li> Mid-to-high pricing : Inventory prices span evenly from low cost to high-end values, averaging around 356.41.</li>
+  <li> High-value drivers : A few large transactions peak near 3,456.40, skewing the overall revenue and pulling the average order value above the typical mid-range purchase.</li>
+</ul>
 
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
