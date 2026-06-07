@@ -17,7 +17,7 @@ EDA is a critical step in data analysis where data scientists investigate datase
 
 ### Project_Analysis
 
-<b> Dataset dimension </b>
+** Dataset dimension **
 <ul>
   <li> Number of rows: 1200 </li>
   <li> Number of Columns: 14 </li>
