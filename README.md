@@ -52,4 +52,4 @@ EDA is a critical step in data analysis where data scientists investigate datase
   <li> Primary Acquisition Channel: Instagram is the top referral source, generating 259 entries.</li>
 </ul>
 
-![Alt text]()
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Categorical%20descriptive%20analysis.png?raw=true)
