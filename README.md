@@ -17,9 +17,9 @@ EDA is a critical step in data analysis where data scientists investigate datase
 
 ### Project_Analysis
 
-#### - Dataset dimension 
-Number of rows: 1200
+<b> Dataset dimension </b>
 
+Number of rows: 1200 
 Number of Columns: 14
 
 ##### Outlier Detection
