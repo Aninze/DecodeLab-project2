@@ -1,5 +1,5 @@
 # DecodeLab-project2
-#### Exploratory Data Analysis
+#### <u>Exploratory Data Analysis </u>
 
 Exploratory Data Analysis (EDA) is the process of examining and visualizing data to uncover patterns, detect anomalies, and understand relationships among variables before formal modeling.
 
