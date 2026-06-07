@@ -63,3 +63,13 @@ EDA is a critical step in data analysis where data scientists investigate datase
 
 ![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Correlationship%20analysis.png?raw=true)
 
+**CouponCode Count and Revenue performance**
+<ul>
+  <li>Volume Leader : FREESHIP is by far the most popular option. It drove over 51% of all transactions.</li>
+  <li>Revenue Driver: FREESHIP also generated the majority of sales, contributing $657,438.40 to the business.</li>
+</ul>
+
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/CouponCode%20count%20and%20Revenue%20performance%20summary.png?raw=true)
+
+
+
