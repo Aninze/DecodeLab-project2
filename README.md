@@ -15,4 +15,20 @@ EDA is a critical step in data analysis where data scientists investigate datase
 2. Descriptive statistics
 3. Analyticsl thinking
 
-![Alt Text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
+### Project_Analysis
+
+Dataset dimension 
+Number of rws: 1200
+Number of Columns: 14
+
+##### Outlier Detection
+inter-Quartile-Range (IQR) Method is used to detect the outlier points in the numeric columns:
+The number of outiers in Quantity Column: 0
+The number of outliers in Unitprice Column: 0
+The number of outliers in ItemsIncart column: 0
+The number of outliers in Totalprice column: 8
+
+
+
+
+
