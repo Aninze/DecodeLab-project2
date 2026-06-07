@@ -53,3 +53,13 @@ EDA is a critical step in data analysis where data scientists investigate datase
 </ul>
 
 ![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Categorical%20descriptive%20analysis.png?raw=true)
+
+**Correlation Analysis**
+<ul>
+  <li>Strongest Relationship : UnitPrice and TotalPrice share the strongest positive linear correlation (r ≈ 0.72). As unit price rises, total transaction price increases significantly.</li>
+  <li>Moderate to Strong Relationships : Quantity shows substantial positive correlations with both ItemsInCart (r ≈ 0.65) and TotalPrice (r ≈ 0.62).</li>
+  <li>Weakest Relationship : UnitPrice and ItemsInCart have virtually zero linear relationship (r ≈ 0.0006). The price of an individual item does not impact how many total items are placed in the cart.</li>
+</ul>
+
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Correlationship%20analysis.png?raw=true)
+
