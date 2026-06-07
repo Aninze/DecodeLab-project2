@@ -32,6 +32,6 @@ EDA is a critical step in data analysis where data scientists investigate datase
   <li> The number of outliers in ItemsIncart column: 0</li>
   <li> The number of outliers in Totalprice column: 8</li>
 </ul>
-![Alt Text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Totalprice%20outlier%20detection.png?raw=true)
 
 
