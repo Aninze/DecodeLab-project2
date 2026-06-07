@@ -88,4 +88,16 @@ EDA is a critical step in data analysis where data scientists investigate datase
 
 ![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Payment%20method%20count%20and%20revenue%20performance%20summary.png?raw=true)
 
+**Product Count and Revenue performance**
+<ul>
+  <li>Total Performance Summary: The business generated a combined revenue of $1,264,761.96 across a total volume of 1,200 products sold.</li>
+  <li>Top Revenue Generator: Chairs brought in the highest individual revenue at $195,620.11, closely followed by Printers at $195,612.61.</li>
+  <li>Highest Sales Volume: Printers moved the highest quantity with 181 units sold.Lowest Performing Product: Phones ranked lowest in both sales velocity (156 units) and revenue contribution ($151,722.39).</li>
+</ul>
 
+![Alt text](https://github.com/Aninze/DecodeLab-project2/blob/main/Product%20count%20and%20revenue%20performance%20summary.png?raw=true)
+
+### Summary
+
+<p>An analysis of 1,200 complete transaction records revealed that customers typically buy 1–5 items per transaction (averaging ~3), with transaction values skewed by occasional high-value orders. Prices span a wide range across the catalog, yet product cost has virtually no impact on how many items customers add to their cart.</p>
+<p>On the operational side, "FREESHIP" was the dominant coupon used in over half of all transactions, and shipping destinations were highly spread out. A notable red flag is that 20.8% of orders were cancelled — the most common order status observed. The strongest correlations were between unit price and total price, and between quantity and cart size, while price and quantity showed almost no relationship, confirming that purchasing volume is driven by factors other than cost.</p>
