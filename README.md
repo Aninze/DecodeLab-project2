@@ -24,14 +24,14 @@ EDA is a critical step in data analysis where data scientists investigate datase
 </ul>
 
 
-##### Outlier Detection
-inter-Quartile-Range (IQR) Method is used to detect the outlier points in the numeric columns:
-The number of outiers in Quantity Column: 0
-The number of outliers in Unitprice Column: 0
-The number of outliers in ItemsIncart column: 0
-The number of outliers in Totalprice column: 8
-
-
-
+**Outlier Detection**
+<p> inter-Quartile-Range (IQR) Method is used to detect the outlier points in the numeric columns.</p>
+<ul>
+  <li> The number of outiers in Quantity Column: 0</li>
+  <li> The number of outliers in Unitprice Column: 0</li>
+  <li> The number of outliers in ItemsIncart column: 0</li>
+  <li> The number of outliers in Totalprice column: 8</li>
+</ul>
+![Alt Text](
 
 
