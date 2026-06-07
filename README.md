@@ -1,5 +1,5 @@
 # DecodeLab-project2
-#### <u>Exploratory Data Analysis </u>
+#### Exploratory Data Analysis
 
 Exploratory Data Analysis (EDA) is the process of examining and visualizing data to uncover patterns, detect anomalies, and understand relationships among variables before formal modeling.
 
@@ -18,9 +18,11 @@ EDA is a critical step in data analysis where data scientists investigate datase
 ### Project_Analysis
 
 <b> Dataset dimension </b>
+<ul>
+  <li> Number of rows: 1200 </li>
+  <li> Number of Columns: 14 </li>
+</ul>
 
-Number of rows: 1200 
-Number of Columns: 14
 
 ##### Outlier Detection
 inter-Quartile-Range (IQR) Method is used to detect the outlier points in the numeric columns:
